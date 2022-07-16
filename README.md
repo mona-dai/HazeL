@@ -1,2 +1,2 @@
 # HazeL
-R code respoitory for "HazeL: a low-cost learning platform for aerosol measurements"
+R code repository for "HazeL: a low-cost learning platform for aerosol measurements"
